@@ -1,0 +1,2 @@
+// Cleaned test file
+export {};
